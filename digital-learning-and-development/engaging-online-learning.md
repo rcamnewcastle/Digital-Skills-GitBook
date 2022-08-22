@@ -1,6 +1,6 @@
 ## How to create engaging online learning
 
-Most of us recognise that students in higher education in the 2020s are very different from the full-time school-leavers accessing their education for free which made up most university populations in the late 20th century.  Students now are often working full-time, coming back to (or starting) university after years in the workforce, supporting families, and coping with all of these distractions to study.  And of course we had the huge upheaval of COVID-19 and the changes it made to university education in 2020 and 2021, which will never go ‘back to normal as we knew it’.
+Most of us recognise that students in higher education in the 2020s are very different from the full-time school-leavers accessing their education for free which made up most university populations in the late 20th century.  Students now are often working full-time, coming back to (or starting) university after years in the workforce, supporting families, and coping with all of these distractions to study.  And of course we had the huge upheaval of COVID-19 and the changes it made to university education in 2020 and 2021, which will never go back to 'normal as we knew it’.
 
 This is a great list of reasons for us to ensure that any online learning we offer is engaging, supportive, and inclusive.  Online learning needs to grab and hold our learners’ attention, it needs to encourage and facilitate deep cognitive engagement, and it should also take into account the aspects of andragogy, or adult education, as described later in this chapter (see Pedagogy and andragogy in an online environment).
 
@@ -47,7 +47,7 @@ Try using “formative assessment with performance-based tasks ….” (Tao Test
 Keep things short and sharp – include only ‘need to know’ information on the main pages of your resource.  You don’t want your resource to look onerous!
 Provide achievement markers, complemented by your concept checks, along the way.
 
-#Accessibility 
+# Accessibility 
 It’s not all about high contrast and font size.  Accessibility relates to cognitive and emotional circumstances as well as physical, and these can change from day to day (as we all know!). Our student cohorts and their situations are diverse, so our online teaching needs to address as many of those situations as possible.
 For example: 
 
